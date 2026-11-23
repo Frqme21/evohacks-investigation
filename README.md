@@ -20,3 +20,8 @@ Each check looked at:
 - Obvious copy/origin signals
 
 This was not a full plagiarism comparison against external codebases.
+
+## Scripts
+
+The `scripts/` folder has the small scripts used for these checks: repo metadata fetch, image/PDF metadata scan, old date scan, and ZIP-vs-directory comparison.
+
